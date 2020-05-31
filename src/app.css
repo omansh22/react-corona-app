@@ -1,0 +1,24 @@
+.credits{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.a{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.b{ display: flex;
+    justify-content: center;
+color: blue;
+}
+
+.c{
+    color: darkgray;
+}
+.x{
+   align-items: center;
+}
