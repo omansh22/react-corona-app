@@ -1,0 +1,31 @@
+
+.reco{
+    border-bottom: 10px solid #3C40C6;
+    background-color: #d4e7ff;
+}
+ .inf{
+    border-bottom: 10px solid #45CE30 ;
+    background-color: #7CEC9F;
+ }
+
+ .dea{
+    border-bottom: 10px solid #E8290B  ;
+    background-color: #f8adaa;
+    
+ }
+ .img{
+   height: auto;
+    width: 370px;
+    padding-bottom: 10px;
+ }
+.maj{
+   display: flex;
+   justify-content: center;
+}
+.container {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 50px 0;
+ }
+ 
